@@ -1,4 +1,4 @@
-# Real_or_AI_Synthetic_Image
+# Real_or_AI_Image
 
 ## Related Work
 [CIFAKE: Real and AI-Generated Synthetic Images](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
