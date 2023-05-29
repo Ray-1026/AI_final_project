@@ -1,3 +1,12 @@
+# Dataset
+archive/
+
+# .py .ipynb
+others.ipynb
+GAN.ipynb
+EfficientNet.ipynb
+GPU_clear.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
