@@ -3,9 +3,10 @@ archive/
 
 # .py .ipynb
 others.ipynb
-GAN.ipynb
-EfficientNet.ipynb
-GPU_clear.py
+ensemble_model.ipynb
+efficientnet.ipynb
+test.py
+GPU.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
