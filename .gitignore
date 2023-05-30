@@ -7,6 +7,7 @@ ensemble_model.ipynb
 efficientnet.ipynb
 test.py
 GPU.txt
+generated.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
