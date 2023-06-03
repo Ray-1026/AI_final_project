@@ -1,9 +1,12 @@
-# Dataset
+# my files
 archive/
-
-# .py .ipynb
+GAN/
+Models/
+DCGAN.ipynb
+DCGAN copy.ipynb
+DCGAN_test.npy
+Test_GAN_Image.ipynb
 others.ipynb
-ensemble_model.ipynb
 efficientnet.ipynb
 test.py
 GPU.txt
