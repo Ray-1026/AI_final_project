@@ -2,15 +2,6 @@
 archive/
 GAN/
 Models/
-DCGAN.ipynb
-DCGAN copy.ipynb
-DCGAN_test.npy
-Test_GAN_Image.ipynb
-others.ipynb
-efficientnet.ipynb
-test.py
-GPU.txt
-generated.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
