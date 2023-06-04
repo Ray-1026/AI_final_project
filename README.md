@@ -38,7 +38,11 @@ EfficientNetV2 : lr = 0.001, batch\_size = 200, and epochs = 20
 
 ## Evaluation Metrics
 #### Accuracy
-$$accuracy = \frac{1}{n}\sum_{i=1}^n f(x)\quad where\;f(x)=\begin{cases} 1, & if\;output=label \\ 0, & otherwise \end{cases}$$
+$$accuracy = \frac{1}{n}\sum_{i=1}^n f(x)\quad where\ f(x)=
+\begin{cases}
+1, & if\ output=label \\ 
+0, & otherwise 
+\end{cases}$$
 
 #### F1-score
 $$Recall = \frac{TP}{TP+FN}$$
