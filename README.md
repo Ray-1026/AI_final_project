@@ -46,7 +46,9 @@ $$accuracy = \frac{1}{n}\sum_{i=1}^n f(x)\quad where\ f(x)=
 
 #### F1-score
 $$Recall = \frac{TP}{TP+FN}$$
+
 $$Precision = \frac{TP}{TP+FP}$$
+
 $$F1-score = \frac{2\times Precision \times Recall}{Precision+Recall}$$
 
 ## Results
