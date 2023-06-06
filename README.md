@@ -37,14 +37,27 @@ ResNet50 : lr = 0.0007, batch\_size = 200, and epochs = 20
 EfficientNetV2 : lr = 0.001, batch\_size = 200, and epochs = 20
 
 ## Evaluation Metrics
-#### Accuracy
+### Accuracy
 $$accuracy = \frac{1}{n}\sum_{i=1}^n f(x)\quad where\ f(x)=
 \begin{cases}
 1, & if\ output=label \\ 
 0, & otherwise 
 \end{cases}$$
 
-#### F1-score
+### F1-score
+
+Define four paramaters as followed:
+
+> TP : Number of samples correctly predicted as “real image.”
+> 
+> TN : Number of samples correctly predicted as “AI image.”
+> 
+> FP : Number of samples wrongly predicted as “real image.”
+> 
+> FN : Number of samples wrongly predicted as “AI image.”
+
+**Formula** :
+
 $$Recall = \frac{TP}{TP+FN}$$
 
 $$Precision = \frac{TP}{TP+FP}$$
